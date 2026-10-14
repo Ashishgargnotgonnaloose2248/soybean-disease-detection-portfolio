@@ -1,0 +1,81 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Dataset
+dataset/
+dataset_split/
+
+# Model Checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Environment Variables
+.env
+
+# Results (optional)
+results/temp/
+
+# Build Files
+build/
+dist/
+
+# Research code — keep private
+src/train_v3.py
+src/ablation_train.py
+src/train_baselines.py
+
+# Research outputs and datasets
+outputs/
+dataset_split.zip
+gradcam_images/
+
+# Additional model files
+*.onnx
+*.safetensors
+
+train_v3.py
+dataset/
+dataset_split/
+dataset_split.zip
+checkpoints/
+*.pth
+*.pt
+venv/
+.venv/
+.env
+.git/
+# Private training code and data
+train_v3.py
+dataset/
+dataset_split/
+dataset_split.zip
+checkpoints/
+*.pth
+*.pt
+venv/
+.venv/
+.env
