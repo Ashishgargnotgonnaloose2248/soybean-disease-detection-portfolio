@@ -1,3 +1,5 @@
+# Note: Some Parts of the project is not published due to piracy concerns.
+
 # 🌱 Soybean Disease Detection Using Deep Learning
 
 A computer vision project focused on classifying soybean leaf images into six health and disease categories using deep learning, with model evaluation and explainable AI.
